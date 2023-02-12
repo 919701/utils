@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.clevertec.StringUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-12T04:03:51" hostname="DESKTOP-Q88K86M" time="0.067">
+  <properties/>
+  <testcase name="isStringNumberTest()" classname="ru.clevertec.StringUtilsTest" time="0.058"/>
+  <testcase name="isNegativeNumberTest()" classname="ru.clevertec.StringUtilsTest" time="0.002"/>
+  <testcase name="isPositiveNumberTest()" classname="ru.clevertec.StringUtilsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
