@@ -21,7 +21,6 @@ Written three unit test for StringUtils.is Positive Number(String str) using JUn
 <meta http-equiv="x-ua-compatible" content="IE=edge"/>
 <link href="css/base-style.css" rel="stylesheet" type="text/css"/>
 <link href="css/style.css" rel="stylesheet" type="text/css"/>
-<script src="js/report.js" type="text/javascript"></script>
 </head>
 <body>
 <div id="content">
